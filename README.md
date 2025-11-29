@@ -36,4 +36,4 @@ Czy działa z optifine ?
 Nie ale działa ze sodium itd...
 
 Jak zgłosić błąd lub sugestię?
-Najlepiej przez Discord: dc.gg/amamaki
+Najlepiej przez Discord: dc.gg/veltragossa
