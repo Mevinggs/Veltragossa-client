@@ -4,7 +4,8 @@ Veltragrossa Client by Mevinggs
 Ten „shit” robi dokładnie to, co widać — rozpierdala cweli ez
 
 FAQ
-
+(advanced faq in dc.gg/veltragossa
+Website https://veltragossa.pl )
 Czy to zwykły cheat?
 Nie. Jest to modowana wersja z lepszymi bypassami i poprawionymi visualsami.
 
